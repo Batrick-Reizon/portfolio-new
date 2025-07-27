@@ -30,7 +30,7 @@ function Project() {
                 </div>
                 <div className="relative bg-black rounded-md w-4/5 sm:w-2/5 lg:w-1/4">
                     <img src={Actodo} style={{ width: "100%", height: "200px" }} className="rounded-md opacity-50" alt="Actodo"></img>
-                    <a href="https://batrick-reizon.github.io/reestar-food-order-website/" target="blank" className="absolute top-[45%] left-[42%] text-white font-medium bg-black p-1 rounded-md">Explore</a>
+                    <a href="https://actodo-react-sandy.vercel.app/" target="blank" className="absolute top-[45%] left-[42%] text-white font-medium bg-black p-1 rounded-md">Explore</a>
                 </div>
                 <div className="relative bg-black rounded-md w-4/5 sm:w-2/5 lg:w-1/4">
                     <img src={Weather} style={{ width: "100%", height: "200px" }} className="rounded-md opacity-50" alt="Weather"></img>
